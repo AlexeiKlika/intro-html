@@ -8,3 +8,12 @@
 .screenshot {
 	max-width: 400px;
 }
+
+.app {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.description {
+	max-width:705px;
+}
