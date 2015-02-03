@@ -1,3 +1,10 @@
-.description {
-	color:red;
+* {
+	-webit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.screenshot {
+	max-width: 400px;
 }
