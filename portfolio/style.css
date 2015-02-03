@@ -5,8 +5,20 @@
 	box-sizing: border-box;
 }
 
+body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.title {
+	color:#fff;
+	background: #33BEBE;
+	padding: 40px 20px 5px 20px;
+	text-transform: uppercase;
+}
+
 .screenshot {
 	max-width: 400px;
+	margin-right: 20px;
 }
 
 .app {
@@ -16,4 +28,7 @@
 
 .description {
 	max-width:705px;
+	font-size:16px;
+	line-height:1.3em;
+	color:#7C8B88;
 }
