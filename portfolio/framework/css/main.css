@@ -13,8 +13,14 @@ h1 {
 	color:blue;
 }
 
+.grid {
+	margin:0 auto;
+}
+
 .row {
 	width:100%;
+	display:flex;
+	flex-wrap:wrap;
 }
 
 .col-1 {
